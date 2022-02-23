@@ -1,0 +1,17 @@
+.container {
+    color: black;
+    background-color: rgb(171, 72, 83);
+    font-style: sans-serif;
+    font-size: 30px;
+}
+
+#metal {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    background-color: rgb(171, 72, 83);
+    font-style: sans-serif;
+    font-size: 30px;
+}
